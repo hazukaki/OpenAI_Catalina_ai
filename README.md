@@ -1,19 +1,19 @@
-# OpenAI Catalina
+OPnnAI Catalina
+Descripción
 
-## Descripción
+OpenAI Catalina es un proyecto que busca facilitar la conectividad y control de dispositivos inteligentes a través de interfaces de red.
+Características
 
-OpenAI Catalina es un proyecto que busca facilitar la conectividad y control de dispositivos inteligentes a través de interfaces de red. El proyecto incluye herramientas para conectar y gestionar dispositivos Wi-Fi y Bluetooth, así como controlar relés inteligentes mediante comandos.
+    Conectividad Wi-Fi: Configuración y conexión a redes Wi-Fi.
+    Control de Relés: Encender y apagar relés inteligentes mediante una API.
+    Integración BLE: Escaneo y gestión de dispositivos Bluetooth Low Energy (BLE).
 
-## Características
+Instalación
 
-- **Conectividad Wi-Fi**: Configuración y conexión a redes Wi-Fi.
-- **Control de Relés**: Encender y apagar relés inteligentes mediante una API.
-- **Integración BLE**: Escaneo y gestión de dispositivos Bluetooth Low Energy (BLE).
+    Clonar el Repositorio
 
-## Instalación
+    bash
 
-1. **Clonar el Repositorio**
+    git clone https://github.com/hazukaki/OpenAI_Catalina_ai.git
+    cd OpenAI_Catalina_ai
 
-   ```bash
-   git clone https://github.com/tuusuario/OpenAI_Catalina.git
-   cd OpenAI_Catalina
