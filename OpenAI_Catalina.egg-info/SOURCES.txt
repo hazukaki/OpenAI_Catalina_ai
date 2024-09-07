@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+OpenAI_Catalina.egg-info/PKG-INFO
+OpenAI_Catalina.egg-info/SOURCES.txt
+OpenAI_Catalina.egg-info/dependency_links.txt
+OpenAI_Catalina.egg-info/not-zip-safe
+OpenAI_Catalina.egg-info/requires.txt
+OpenAI_Catalina.egg-info/top_level.txt

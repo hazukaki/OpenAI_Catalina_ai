@@ -1,0 +1,2 @@
+[console_scripts]
+openai_catalina = openai_catalina.main:main

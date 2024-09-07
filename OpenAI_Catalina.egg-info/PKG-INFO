@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: OpenAI_Catalina
+Version: 0.1
+Summary: Proyecto para control de dispositivos y conectividad de red.
+Author: Oscar
+Author-email: tu.email@example.com
+License-File: LICENSE
+Requires-Dist: requests==2.28.2
+Requires-Dist: numpy==1.23.4
+Requires-Dist: scapy==2.4.5
+Requires-Dist: python-dotenv==1.0.0
+Requires-Dist: bleak==0.19.1

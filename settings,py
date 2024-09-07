@@ -1,0 +1,28 @@
+# config/settings.py
+
+# Configuración del Proyecto OpenAI_Catalina
+
+# Parámetros de la red
+NETWORK_SETTINGS = {
+    'wifi_ssid': 'nombre_de_red',
+    'wifi_password': 'contraseña_de_red'
+}
+
+# Configuración del relé
+RELAY_SETTINGS = {
+    'relay_ip': 'direccion_ip_del_relay',
+    'relay_port': 'puerto_del_relay'
+}
+
+# Configuración del Bluetooth
+BLUETOOTH_SETTINGS = {
+    'bluetooth_device': 'nombre_del_dispositivo_bluetooth'
+}
+
+# Configuración general
+GENERAL_SETTINGS = {
+    'log_level': 'DEBUG',  # Otros valores pueden ser INFO, WARNING, ERROR
+    'debug_mode': True
+}
+
+print("Configuración cargada correctamente.")
